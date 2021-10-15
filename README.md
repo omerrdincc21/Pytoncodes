@@ -1,2 +1,0 @@
-# Pytoncodes
-deneme sitesi
